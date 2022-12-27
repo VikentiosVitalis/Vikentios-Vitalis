@@ -6,7 +6,7 @@ Electrical and Computer Engineer
 
 * 🌍  I'm based in Athens
 * ✉️  You can contact me at [vitalisvikentios@gmail.com](mailto:vitalisvikentios@gmail.com)
-* 🚀  I'm currently working on completing my studies [@NTUA](http://https://www.ntua.gr/en/)
+* 🚀  I'm currently working on completing my studies [@NTUA](https://www.ece.ntua.gr/en)
 
 ### Skills
 
