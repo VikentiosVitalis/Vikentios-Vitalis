@@ -5,7 +5,7 @@ Electrical and Computer Engineer
 --------------------------------
 
 * 🌍  I'm based in Athens
-* 🖥️  Visit my online Curriculum Vitae [(CV)](http://vikentiosvitalis.github.io/Vikentios-Vitalis-CV.github.io/)
+* 🖥️  Visit my online Curriculum Vitae(CV) [here](http://vikentiosvitalis.github.io/Vikentios-Vitalis-CV.github.io/)
 * ✉️  You can contact me at [vitalisvikentios@gmail.com](mailto:vitalisvikentios@gmail.com)
 * 🚀  I'm currently working on [Completing my studies @NTUA](http://www.ece.ntua.gr/en)
 
