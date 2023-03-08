@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Electrical and Computer Engineer
 --------------------------------
 
-* 🌍  I'm based in Athens
+* 🌍  Based in [Athens, Hellas](https://en.wikipedia.org/wiki/Athens)
 * 🖥️  Visit my [Curriculum Vitae (CV)](http://vikentiosvitalis.github.io/vikentios_vitalis_cv.github.io/)
 * 🚀  I'm currently working on completing my studies as an [Electrical and Computer Engineer @NTUA](http://www.ece.ntua.gr/en)
 * ✉️  You can contact me at [vitalisvikentios@gmail.com](mailto:vitalisvikentios@gmail.com)
