@@ -1,8 +1,7 @@
- # Vikentios Vitalis 
-=================================
+# Vikentios Vitalis 
 
 ## Electrical & Computer Engineer
---------------------------------
+
 
 * 🌍  Based in [Athens, Hellas](https://en.wikipedia.org/wiki/Athens)
 * 🖥️  Visit my [Curriculum Vitae (CV)](http://vikentiosvitalis.github.io/vikentios_vitalis_cv.github.io/)
