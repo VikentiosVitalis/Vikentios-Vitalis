@@ -1,6 +1,6 @@
 # Vikentios Vitalis 
 
-## Electrical & Computer Engineer
+## MEng: Electrical & Computer Engineer
 
 
 * 🌍  Based in [Athens, Hellas](https://en.wikipedia.org/wiki/Athens)
