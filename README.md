@@ -20,8 +20,10 @@
 ### Tools
 <a href="https://git-scm.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git" 
 width="40" height="40"/></a>
-
+<a href="https://git-scm.com/](https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Fvisual-studio-code-vector-logo-1-5273.html&psig=AOvVaw1i8aSrLTFBYmXZm7yoKedR&ust=1681468700877000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDOyZfVpv4CFQAAAAAdAAAAABAR" alt="VS Code" 
+width="40" height="40"/></a>
 
 ### Socials
+
 
 <p align="left"> <a href="https://www.linkedin.com/in/vikentios-vitalis-264354180/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
