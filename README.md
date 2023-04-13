@@ -18,11 +18,12 @@
 </p>
 
 ### Tools
+<p align="left">
 <a href="https://git-scm.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git" 
 width="40" height="40"/></a>
-
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Visual_Studio_Code_1.35_icon.png/640px-Visual_Studio_Code_1.35_icon.png" alt="VS Code" 
 width="40" height="40"/></a>
+</p>
 
 ### Socials
 
