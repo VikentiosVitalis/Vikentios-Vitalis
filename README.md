@@ -21,7 +21,7 @@
 <a href="https://git-scm.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git" 
 width="40" height="40"/></a>
 
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Fvisual-studio-code-vector-logo-1-5273.html&psig=AOvVaw1i8aSrLTFBYmXZm7yoKedR&ust=1681468700877000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDOyZfVpv4CFQAAAAAdAAAAABAR" alt="VS Code" 
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Visual_Studio_Code_1.35_icon.png/640px-Visual_Studio_Code_1.35_icon.png" alt="VS Code" 
 width="40" height="40"/></a>
 
 ### Socials
