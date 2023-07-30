@@ -1,6 +1,6 @@
 # Vikentios Vitalis 
 
-## Senior Electrical & Computer Engineering Student
+## Electrical & Computer Engineering Student
 
 
 * 🌍  Based in [Athens, Hellas](https://en.wikipedia.org/wiki/Athens)
