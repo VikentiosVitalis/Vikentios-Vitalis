@@ -1,6 +1,6 @@
 # Vikentios Vitalis 
 
-## Electrical & Computer Engineering Student
+## Electrical & Computer Engineer
 
 
 * 🌍  Based in [Athens, Hellas](https://en.wikipedia.org/wiki/Athens)
