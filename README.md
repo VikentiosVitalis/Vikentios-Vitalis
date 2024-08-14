@@ -4,7 +4,7 @@
 
 
 * 🌍  Based in [Athens, Hellas](https://en.wikipedia.org/wiki/Athens)
-* 🖥️  Visit my [Curriculum Vitae (CV)](http://vikentiosvitalis.github.io/vikentios_vitalis_cv.github.io/)
+* 🖥️  Visit my [Portfolio](https://vikentios-vitalis-portfolio.netlify.app/)
 * ✉️  You can contact me at [vitalisvikentios@gmail.com](mailto:vitalisvikentios@gmail.com)
 <!-- * 🚀  I'm currently working on completing my studies as an [Electrical and Computer Engineer @NTUA](http://www.ece.ntua.gr/en) -->
 
